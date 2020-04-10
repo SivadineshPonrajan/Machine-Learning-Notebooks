@@ -3,7 +3,7 @@
 
 ### Day 01
 
-![Binary Classification](https://raw.githubusercontent.com/SivadineshPonrajan/Machine-Learning-Notebooks/master/Images/01.jpeg)
+![Binary Classification](https://raw.githubusercontent.com/SivadineshPonrajan/Machine-Learning-Notebooks/master/Images/01.png)
 
 <br>
 
